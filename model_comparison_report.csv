@@ -1,0 +1,5 @@
+"Model","Accuracy","Precision","Recall","F1_Score","AUC"
+"Naive Bayes",70.75,68.02,78.32,72.81,0.7422
+"SVM",84.49,83.98,85.23,84.6,0.9141
+"Logistic Regression",90.75,92.08,89.16,90.6,0.9697
+"Random Forest",82.71,80.7,85.98,83.26,0.905
